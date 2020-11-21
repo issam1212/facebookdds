@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.iconsdb.com	TRUE	/	FALSE	1999999999	__cfduid	d3011c1fd5e85f473e77aa1121a4529231605961715
+www.iconsdb.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.iconfinder.com	TRUE	/	FALSE	1999999999	__cfduid	d81ccd3fe4cf0cfee7e733f29197acca71605961719
+cdn0.iconfinder.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.whatt.cc	TRUE	/	FALSE	1999999999	__cfduid	d7f5f9ca971ddf73b16b66d9372f4ae161605961721
+whatt.cc	TRUE	/	FALSE	1999999999	SameSite	Lax
+
